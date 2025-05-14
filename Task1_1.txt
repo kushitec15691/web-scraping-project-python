@@ -1,0 +1,143 @@
+Title: Artificial intelligence to make Olympic Games more inclusive
+
+By
+
+
+Kim Loohuis
+
+
+Published: 17 Jun 2024 16:00
+
+
+ 
+
+In just a few weeks, the Olympic flame will reach Paris, and some 10,500 athletes from 206 countries, 20,000 journalists and more than 15 million tourists will flood the French capital.
+
+
+The International Olympic Committee (IOC) will employ AI technology to make sports more inclusive, competitive and engaging in the upcoming Games. This innovative approach, championed by IOC president Thomas Bach, is not just about embracing AI, but about charting new sports and Games paths. “With this, we are embarking on a thrilling new era of sports,” he said.   
+
+
+In a strategic partnership with Intel, which has integrated AI into all of its products as part of its AI Everywhere strategy, the IOC has harnessed the power of AI to ensure the Games are fair and inclusive.
+
+
+This includes talent identification, personalised training methods, and the enhancement of sports equipment and programmes. AI also plays a pivotal role in promoting fairness by enabling accurate judging, optimising event organisation, transforming sports broadcasts, enhancing the audience experience and making it more personalised.
+
+
+The IOC’s most impactful use of AI is through digital twins, said Ilario Corna, chief technology officer (CTO) of the sports organisation. “These digital models have been instrumental for event planning, staff training and, most importantly, improving accessibility, demonstrating our commitment to inclusivity in these Games.”
+
+
+The IOC leverages digital twinning to optimise various aspects of planning and execution. “A digital model of an Olympic venue, for example, facilitates collaboration, improves access to information and supports decision-making,” he said. “This reduces planning errors and provides accurate, up-to-date information about and during events.”
+
+
+A practical example is the 3D models created for various facilities in Paris. Combined with AI and computer vision, these models enable indoor and speech navigation through smartphone applications. “By using real-time data and detailed 3D environmental models, visually impaired users can receive accurate directions and information about their surroundings, improving their mobility and independence.”
+
+
+Read more about Olympic IT
+
+
+IT services provider aims to deliver a more connected and technologically advanced Olympic and Paralympic Games for athletes, sports federations, the media and general public.
+Live footages of the Tokyo 2020 Olympic Games supplied to broadcasters through the public cloud for the first time.
+The Atos team controlling the IT for the London 2012 Olympic Games are recreating the environment for a final test before systems go live.
+
+
+
+
+
+
+The Olympic Broadcasting Services (OBS) produces all live TV, radio and digital content during the Games. “In Paris, we will be recording in 8K resolution for the first time,” said Sotiris Salamouris, CTO at OBS.  
+
+
+“This is seen as a significant step forward in video quality, although it demands higher storage and processing capacity,” he said. “The current distribution standard is 4K UHD HDR, but 8K production will also occur for certain key events such as athletics, urban sports, and the opening and closing ceremonies.”
+
+
+Intel is crucial in enabling this 8K production by providing advanced compression technologies and processing with their latest generation of processors. “This ensures that the massive amounts of data associated with 8K can be effectively managed and distributed worldwide without requiring excessive energy and resources,” said Salamouris. 
+
+
+OBS provides neutral, impartial footage to broadcasting organisations worldwide, which can then create their own stories about national athletes and teams. “We offer AI services based on Intel technology that allows those broadcasters to quickly and easily extract specific content or individuals from the material they receive,” said Guillermo Jimenez Navarro, director of broadcast engineering at OBS.  
+
+
+“AI can help editors in different countries quickly create daily highlights of specific sports or athletes,” he said. “We will produce about 11,000 hours of original footage this summer. You can imagine how much time and money it would take if all that material had to be manually sorted and reviewed by humans.”
+
+
+Talent identification 
+
+
+The talent identification platform is another AI application tested by the IOC in collaboration with Intel. “This AI platform helps analyse massive amounts of data to discover potential Olympic talent, even in remote areas,” said Sarah Vickers, head of Intel’s Olympic and Paralympic programme. “Together, we have tested thousands of young athletes and analysed the results using millions of data points and metrics to identify exceptional talent.”  
+
+
+For Corna, this is a special project. “It can potentially change the future of many young athletes.”
+
+
+AI can also be a valuable addition to scoring and judging. Using advanced imaging techniques, AI systems can perform real-time analyses of athletes’ performances, which is very useful in sports such as gymnastics and diving, where performances are not always easy to judge with the naked eye. AI can accurately compare athletes’ movements with preset criteria, resulting in more consistent and objective scores, and reducing human bias.
+
+
+The biggest challenge for the International Olympic Committee (IOC) regarding AI at the upcoming Olympic Games is balancing the technology’s benefits with managing the associated risks and ethical considerations.  
+
+
+“Within our organisation, we have a team dedicated to responsible AI,” said Corna. “They work on developing and understanding AI systems to eliminate as much bias as possible in the results.”
+Security and privacy risks
+
+
+A vital aspect of this is ensuring the privacy and security of athletes, spectators and other stakeholders. AI systems collect and analyse large amounts of data, posing risks to data security and privacy. It’s crucial that these systems are free from biases, and that decisions and analyses are fair and transparent. “This remains an ongoing challenge,” he said.
+
+
+But Corna doesn’t see significant risks regarding AI. “Which is not to say they don’t exist,” he added. “We take the time and do our best to identify risks thoroughly. We have found some use cases that we believe do not pose significant risks, but we continue to look for potentially greater risks.”  
+
+
+To mitigate potential risks, the IOC has developed an internal framework for all of these use cases. “It is an internal framework, with the primary component being integrity, ensuring that there is no bias in the algorithms,” said Corna. “We take this very seriously.”  
+
+
+For him, AI systems do not replace the human factor behind the scenes. “Our vision is that AI instead supports them, enabling us to innovate the Olympic and Paralympic Games continually,” concluded Corna.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read more on IT for leisure and hospitality industry
+
+
+
+Interview: Bruno Marie-Rose, CIO, Paris 2024 Olympic and Paralympic Games
+
+
+
+
+By: Mark Samuels
+
+
+
+
+Orange claims gold in Olympic mobile coverage
+
+
+
+
+By: Joe O’Halloran
+
+
+
+
+Learning from the Olympians: what business leaders can take from elite sport
+
+
+
+
+By: Bev White
+
+
+
+
+5 examples of AI in the Olympics
+
+
+
+
+By: Alison Roller

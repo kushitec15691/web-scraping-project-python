@@ -1,0 +1,8 @@
+City: Stockholm-
+Temperature: 12 °C
+Condition: Passing clouds.
+Current_time: 2024-10-18 10:59:24
+Visibility: 9 °C
+Pressure: Now
+Humidity: 
+Dew_point: 12 °C
